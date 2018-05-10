@@ -8,4 +8,5 @@ public class Customer {
 	private double price;
 	private Date date;
 	private long contact_number;
+	private boolean status;
 }
